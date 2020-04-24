@@ -1,0 +1,15 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>和丰超市</view>
+        <view class='content'>
+            技术支持: 929-261-8298
+        </view>
+        <view class="line"></view>
+        <view class="content">开发者：盛良</view>
+        <view class="content">微信：lookgxl</view>
+        <view class="line"></view>
+        <view class='content'>
+            更多信息访问：hiolabs.com
+        </view>
+    </view>
+</view>
